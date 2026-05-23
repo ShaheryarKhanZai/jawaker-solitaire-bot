@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# ML Models — only exclude if you have files >100MB
+# composite.pt (65MB) and yolo26n_480.onnx are included in this repo
+# If you add larger models, list them here:
+# my_large_model.pt
+
+# Generated calibration output
+ROI_final.json
+ROI_final_new.json
+
+# Debug output
+debug_output/
+*.log
+
+# Screenshots (used during dev/testing)
+*.png
+*.jpg
+*.jpeg
+!symbols/*.png
+!symbols/*.jpg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
