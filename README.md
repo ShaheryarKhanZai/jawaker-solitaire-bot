@@ -4,6 +4,12 @@ An automated bot that plays Solitaire on [Jawaker](https://www.jawaker.com) usin
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/81a35d2a-7a1a-4f9b-8db0-dd9388b89547
+
+---
+
 ## How It Works
 
 1. Takes a screenshot of your screen
@@ -48,7 +54,7 @@ An automated bot that plays Solitaire on [Jawaker](https://www.jawaker.com) usin
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/ShaheryarKhanZai/jawaker-solitaire-bot.git
+git clone https://github.com/YOUR_USERNAME/jawaker-solitaire-bot.git
 cd jawaker-solitaire-bot
 ```
 
