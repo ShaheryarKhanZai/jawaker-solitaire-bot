@@ -1,3 +1,7 @@
+
+
+
+
 # Jawaker Solitaire Bot
 
 An automated bot that plays Solitaire on [Jawaker](https://www.jawaker.com) using computer vision to detect and classify cards in real time.
@@ -6,7 +10,7 @@ An automated bot that plays Solitaire on [Jawaker](https://www.jawaker.com) usin
 
 ## Demo
 
-https://github.com/user-attachments/assets/81a35d2a-7a1a-4f9b-8db0-dd9388b89547
+https://github.com/user-attachments/assets/22349ffa-d59f-4133-85f7-0d4fb4e0edb1
 
 ---
 
